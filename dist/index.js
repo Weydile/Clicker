@@ -1,4 +1,4 @@
-import * as PIXI from "../_snowpack/pkg/pixijs.js";
+import * as PIXI from "../_snowpack/pkg/pixijs";
 init();
 function init() {
   const app = new PIXI.Application({
